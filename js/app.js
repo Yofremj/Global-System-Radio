@@ -1,5 +1,5 @@
 var music=new Audio();
-music.src="http://laradioglobal.ddns.net:8000/global";
+music.src="https://icecast.omroep.nl/radio2-bb-mp3";
 music.loop=true;
 music.pause();   
    
