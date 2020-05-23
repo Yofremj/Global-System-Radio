@@ -1,6 +1,6 @@
 var music=new Audio('https://icecast.omroep.nl/radio2-bb-mp3');
 music.play();
-var isPlaying = false;
+var isPlaying = true;
    
  function myFunction(x) {
             
